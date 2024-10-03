@@ -65,6 +65,7 @@ const TrackDetail: React.FC<{ track: any }> = ({ track }) => {
                 icon={<IconRun width="20px" />}
                 color={colors.pink.base}
                 size="large"
+                placeholder="button"
               >
                 Start Track
               </Button>
